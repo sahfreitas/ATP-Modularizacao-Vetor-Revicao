@@ -1,0 +1,14 @@
+C:\Users\1442428\Downloads\ATP-Modularizacao-Vetor-Revicao\bin\Debug\net9.0\ATP-Modularizacao-Vetor-Revicao.exe
+C:\Users\1442428\Downloads\ATP-Modularizacao-Vetor-Revicao\bin\Debug\net9.0\ATP-Modularizacao-Vetor-Revicao.deps.json
+C:\Users\1442428\Downloads\ATP-Modularizacao-Vetor-Revicao\bin\Debug\net9.0\ATP-Modularizacao-Vetor-Revicao.runtimeconfig.json
+C:\Users\1442428\Downloads\ATP-Modularizacao-Vetor-Revicao\bin\Debug\net9.0\ATP-Modularizacao-Vetor-Revicao.dll
+C:\Users\1442428\Downloads\ATP-Modularizacao-Vetor-Revicao\bin\Debug\net9.0\ATP-Modularizacao-Vetor-Revicao.pdb
+C:\Users\1442428\Downloads\ATP-Modularizacao-Vetor-Revicao\obj\Debug\net9.0\ATP-Modularizacao-Vetor-Revicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1442428\Downloads\ATP-Modularizacao-Vetor-Revicao\obj\Debug\net9.0\ATP-Modularizacao-Vetor-Revicao.AssemblyInfoInputs.cache
+C:\Users\1442428\Downloads\ATP-Modularizacao-Vetor-Revicao\obj\Debug\net9.0\ATP-Modularizacao-Vetor-Revicao.AssemblyInfo.cs
+C:\Users\1442428\Downloads\ATP-Modularizacao-Vetor-Revicao\obj\Debug\net9.0\ATP-Modularizacao-Vetor-Revicao.csproj.CoreCompileInputs.cache
+C:\Users\1442428\Downloads\ATP-Modularizacao-Vetor-Revicao\obj\Debug\net9.0\ATP-Modularizacao-Vetor-Revicao.dll
+C:\Users\1442428\Downloads\ATP-Modularizacao-Vetor-Revicao\obj\Debug\net9.0\refint\ATP-Modularizacao-Vetor-Revicao.dll
+C:\Users\1442428\Downloads\ATP-Modularizacao-Vetor-Revicao\obj\Debug\net9.0\ATP-Modularizacao-Vetor-Revicao.pdb
+C:\Users\1442428\Downloads\ATP-Modularizacao-Vetor-Revicao\obj\Debug\net9.0\ATP-Modularizacao-Vetor-Revicao.genruntimeconfig.cache
+C:\Users\1442428\Downloads\ATP-Modularizacao-Vetor-Revicao\obj\Debug\net9.0\ref\ATP-Modularizacao-Vetor-Revicao.dll
